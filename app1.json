@@ -1,0 +1,69 @@
+{
+
+
+  "ads":[
+    {
+     
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+     
+      "FaceBanner":"IMG_16_9_APP_INSTALL#645522883286327_650760236095925",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FaceNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+      
+      "Switch":"admob"
+
+     
+	
+	  
+	  
+	  //"Switch":"admob" or "Switch":"fan" or "Switch":"max" or "Switch":"unity" hado bach tbadal les ads li baghi nta
+	  
+	       
+
+    }
+  
+  ]
+  ,
+   "list": [
+    {
+      "title": "La Casa de Papel now has a Korean version",
+      "image": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "description": "See what The Professor, Raquel, Tokyo, Rio, Berlin, Denver, Nairobi, Moscow, Helsinki and Oslo look like in this South Korean remake.   Note that Berlin is played by Park Hae-Soo , who we discovered in Squid Game .   12 episodes have been ordered so far."
+    },
+	
+    {
+      "title": "THE STORY OF THE SEQUEL BECOMES CLEARER",
+      "image": "https://images.bfmtv.com/amyZLyddDca8Z4Ts-LhT-o1XtCU=/120x2:1928x1019/1808x0/images/Avatar-2-de-James-Cameron-206319.jpg",
+      "description": "The sequel to James Cameron's blockbuster will have nothing to do with the first part released in 2009, announces the film's producer. Expected for twelve years now, Avatar 2 will land in cinemas in December 2022. A year before its release, James Cameron 's new film remains very mysterious. In the columns of the specialist magazine Total Film , the film's producer Jon Landau recounts the plot of the blockbuster in detail for the first time."
+
+    },
+	{
+      "title": "The Witcher: everything that",
+      "image": "https://www.numerama.com/wp-content/uploads/2021/09/the-witcher-serie.jpg",
+      "description": "More seasons for The Witcher, but also new series and an additional animated film: Netflix is betting on the witcher's universe.Netflix has many ideas and projects to expand the universe of The Witcher on SVOD. The video-on-demand service already has a season of The Witcher series , as well as a first animated film, Le Cauchemar du Loup . Two more seasons are coming. In addition, the streaming giant also has two other series in the works as well as a second animated film."
+
+    },
+	{
+      "title": "Spider-Man No Way Home",
+      "image": "https://img.filmsactu.net/datas/films/s/p/spider-man-3-2021/xl/spider-man-3-2021-6124f779daa76.jpg",
+      "description": "The anticipation is huge around Spider-Man No Way Home , so much so that Kevin Feige was quick to say that some fans might be disappointed even though for him the film is as huge and important as Avengers Infinity War and Endgame .   When the boss of the MCU speaks of disappointment, he implies the incessant rumors around the presence of the 3 Spider-Man embodied by Tom Holland, Andrew Garfield and Tobey Maguire."
+
+    },
+	{
+      "title": "Blacklight: Liam Neeson breaks faces and thinks",
+      "image": "https://img.filmsactu.net/datas/fiches/t/h/thriller/n/thriller-61d5743867dea.jpg",
+      "description": "Liam Neeson still badass. At 69 (he will be 70 in June), the Irish actor continues to blow up his face and shoot bad guys. The latest film in this 'must not piss off grandpa' filmo, Blackligh t never hides its Taken 4 tunes."
+
+    }
+
+  ]
+ }
